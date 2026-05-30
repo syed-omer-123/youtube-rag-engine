@@ -2,7 +2,7 @@
 
 A production-grade, enterprise-ready Retrieval-Augmented Generation (RAG) pipeline designed to ingest long-form YouTube video transcripts, perform semantic content chunking, and extract highly structured executive summaries without hallucinations.
 
-🚀 **Live Demo:** [Insert Your Live Streamlit URL Here]
+🚀 **Live Demo:** https://youtube-rag-engine.streamlit.app/
 
 ---
 
