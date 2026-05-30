@@ -52,7 +52,8 @@ YOUTUBE_CHATBOT/
 ├── requirements.txt      # Production package dependencies
 └── README.md             # Systems documentation
 
-🚀 Getting Started1. Installation
+🚀 Getting Started1.
+Installation
 Clone the repository and install the production dependencies:
 git clone [https://github.com/syed-omer-123/youtube-rag-engine.git](https://github.com/syed-omer-123/youtube-rag-engine.git)
 cd youtube-rag-engine
