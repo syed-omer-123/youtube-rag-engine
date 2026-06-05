@@ -68,7 +68,7 @@ Launch the interactive production dashboard locally:
 streamlit run app.py
 
 🛡️ Production Hygiene
-Zero Hallucinations: Rigorously tested against out-of-scope queries; prefers safe structural refusal over content generation.
+Hallucination-resistant retrieval pipeline: Rigorously tested against out-of-scope queries; prefers safe structural refusal over content generation.
 
 Data Security: The .env configuration layer is completely isolated from version control tracking via strict workspace configuration rules.
 
