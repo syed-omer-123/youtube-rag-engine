@@ -1,6 +1,6 @@
 # 🎥 Production YouTube RAG Engine
 
-A production-grade, enterprise-ready Retrieval-Augmented Generation (RAG) pipeline designed to ingest long-form YouTube video transcripts, perform semantic content chunking, and extract highly structured executive summaries without hallucinations.
+Upload a YouTube video, ask questions, and receive answers grounded entirely in the transcript. Built using LangChain, OpenAI, and FAISS to minimize hallucinations and support structured outputs.
 
 🚀 **Live Demo:** https://youtube-rag-engine.streamlit.app/
 
