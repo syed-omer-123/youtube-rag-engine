@@ -8,7 +8,7 @@ Upload a YouTube video, ask questions, and receive answers grounded entirely in 
 
 ## 📖 How It Works (For Everyone)
 
-This system is built to act like a super-intelligent research assistant for video content. Instead of making you watch a 2-hour podcast or video, it reads the transcript, organizes the information, and answers your questions with 100% factual accuracy based *only* on what was said.
+This system is built to act like a super-intelligent research assistant for video content. Instead of making you watch a 2-hour podcast or video, it reads the transcript, organizes the information, and answers grounded in retrieved transcript content.
 
 ### 🧠 The Non-Technical View: The 3-Step Lifecycle
 * **Step 1: Ingestion (The Reader):** The app takes a YouTube link, contacts YouTube's database, and grabs the full text of everything spoken in the video.
